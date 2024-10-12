@@ -1,4 +1,4 @@
-This project is created using two different models one is machine learning model using logistic regression and another one deep learning model to predict the sentiment of the tweet of Airlines sentiment Dataset whether it is positive or negative , used deep learning model uses WordToVec word embeddings and LSTM nueral network to train the model and predict the sentiment of new tweet.
+This project is created using two different models one is machine learning model using logistic regression and another one deep learning model to predict the sentiment of the tweet of Airlines sentiment Dataset whether it is positive or negative , used deep learning model uses WordToVec word embeddings and LSTM deep nueral network to train the model and predict the sentiment of new tweet.
 
 
 ### **Table of Contents**
