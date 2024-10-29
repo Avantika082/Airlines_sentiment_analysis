@@ -99,7 +99,7 @@ Installation
 A standard machine learning model that works well for linearly separable data. We preprocess the text data using TF-IDF (Term Frequency-Inverse Document Frequency) and train the Logistic Regression model on the transformed data.
 
 2. LSTM (Long Short-Term Memory)
-LSTM is a type of Recurrent Neural Network (RNN) designed to handle sequence prediction problems. This model is trained on the tokenized reviews using an embedding layer using wordtovec word embeddings to capture the meaning of words in context.
+LSTM is a type of Recurrent Neural Network (RNN) designed to handle sequence prediction problems. This model is trained on the tokenized reviews using an embedding layer using wordtovec word embeddings to capture the meaning of words in context of text.
 
 
 
